@@ -13,11 +13,12 @@ This repository has files that were implemented by myself during the second seme
 - Course's Examples Solutions.
 
 
-- **Special thanks**: 
+## **Special thanks**: 
 
 - Course instructor Dr. Musa Al-Yaman 
 - Lab instructor : Eng. Safaa Al-Wriedat 
 
 
+## Youtube Playlist for visualization :
 - [My YouTube Playlist](https://www.youtube.com/playlist?list=PLR7GqPO_6lTiSDCSYFWXj8JvYrMdA805v).
 
