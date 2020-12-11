@@ -3,7 +3,7 @@
 # CNC  :Computer numerical control
 
 
-This repository has files that were implemented by myself during the second semester in 2020 at the University of Jordan.
+This repository has files for CNC part (in Automation Course) that were implemented by myself during the second semester in 2020 at the University of Jordan.
 
 ## This Repository includes: 
 
